@@ -1,1 +1,21 @@
-# personal-finance-tracker
+COMP8090SEF Course Project - Personal Finance Tracker & Self-Study
+
+Student: Kwan King Ting
+Student No: 13926829 
+
+This repository contains both tasks for the course project:
+
+Task 1: OOP-based Application
+Personal Finance Tracker – A real-life expense and income management system.  
+Fully implements all OOP concepts taught in the course (Abstraction, Inheritance, Polymorphism, Encapsulation) using multiple modules.
+
+Location: [`/Task1/`](Task1/)  
+Detailed README:[Task1/README_task1.md](Task1/README_task1.md)
+
+Task 2: Self-Study on New Data Structure & Algorithm 
+The Heap maintains real-time **Top 5 highest spending alerts**, while Heap Sort generates sorted monthly reports.  
+This makes the finance system intelligent — after every new transaction in Task 1, Task 2 automatically updates priority spending data.
+
+Location: [`/Task2/`](Task2/)  
+Detailed README: [Task2/README_task2.md](Task2/README_task2.md)
+
