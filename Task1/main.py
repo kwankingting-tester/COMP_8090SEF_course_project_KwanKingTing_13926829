@@ -1,5 +1,5 @@
 from core.manager import FinanceManager
-#之後可能會加入GUI,或者將data另外save去database/excel
+#之後可能會加入GUI,或者將data另外save去database/excel (唔排除需要將顯示改回做英文(未來確認左的話再改))
 def main():
     app = FinanceManager()
     app.load_data()
@@ -33,4 +33,5 @@ def main():
             print("❌ 輸入錯誤，請重試")
 
 if __name__ == "__main__":
+
     main()
