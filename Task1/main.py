@@ -18,19 +18,19 @@ def main():
             amount = float(input("Amount: "))
             cat = input("Category (e.g. Salary, Investment): ")
             app.add_transaction("Cash Wallet", amount, cat, True)
-            print("✅ Income recorded!")
+            print("Income recorded!")
         elif choice == "2":
             amount = float(input("Amount: "))
             cat = input("Category (e.g. Food, Transport): ")
             app.add_transaction("Cash Wallet", amount, cat, False)
-            print("✅ Expense recorded!")
+            print("Expense recorded!")
         elif choice == "3":
             app.show_summary()
         elif choice == "4":
-            print("👋 Thanks for using! Data saved.")
+            print("Thanks for using! Data saved.")
             break
         else:
-            print("❌ Invalid input, please try again")
+            print("Invalid input, please try again")
 
 if __name__ == "__main__":
     main()
