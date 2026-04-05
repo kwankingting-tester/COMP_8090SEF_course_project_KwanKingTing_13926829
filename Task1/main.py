@@ -1,5 +1,5 @@
 from core.manager import FinanceManager
-
+#目錄和call function用
 def main():
     app = FinanceManager()
     app.load_data()
