@@ -13,6 +13,6 @@ Polymorphism: Subclasses override the get_type and string representation methods
 Encapsulation: All class attributes are protected using underscore prefixes, ensuring data integrity by restricting direct access.
 Composition: The FinanceManager class manages a collection of Account and Transaction objects, forming a complete management ecosystem.
 
-##Current Limitations
+##  Current Limitations
 The Task 1 summary feature is designed to show only the last 5 records to maintain a clean interface. This limitation is addressed and optimized in Task 2 through advanced sorting.
 
