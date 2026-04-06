@@ -132,4 +132,4 @@ if __name__ == "__main__":
     for i, item in enumerate(top_3, 1):
         print(f"  Top {i}: {item}")
         
-    print("\n✅ Task 2 獨立運行測試成功！")
+    print("\nTask 2 獨立運行測試成功！")
