@@ -6,7 +6,7 @@ A real-life personal finance management system that helps users record income an
 ## OOP Concepts Demonstrated (All required concepts used)
 Task 1: OOP-based Personal Finance Tracker
 
-***Problem Description:
+**Problem Description:**
 This is a real-life financial management system designed to help users record income and expenses, calculate balances, and maintain data persistence through JSON storage.
 OOP Concepts Implementation
 Abstraction: Defined a Transaction abstract base class with required abstract methods that must be implemented by subclasses.
