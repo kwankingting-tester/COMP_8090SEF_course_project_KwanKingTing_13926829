@@ -1,8 +1,10 @@
 import json
 import os
 import sys
-from Task1.models.account import Account
-from Task1.models.transaction import Income, Expense
+from models.account import Account
+from models.transaction import Income, Expense
+#Task2 的導入路徑
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 #將Task 1 和Task 2 包在一起,令到Task 2的Heap也能在Task 1中的function使用
 #用UTF-8是廢時其他系統開出bug
 class FinanceManager:
