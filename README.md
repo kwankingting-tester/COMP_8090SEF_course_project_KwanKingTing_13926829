@@ -3,8 +3,12 @@ COMP8090SEF Course Project - Personal Finance Tracker & Self-Study
 Student: Kwan King Ting
 Student No: 13926829 
 
-This repository contains both tasks for the course project:
+Project Structure:
+Task1 Folder: Contains the primary OOP infrastructure, implementing Encapsulation, Inheritance, Polymorphism, and Abstraction.
+Task2 Folder: Contains the self-study implementation of the Binary Heap and Heap Sort algorithms.
+transactions.json: A centralized database file shared by both tasks to ensure data consistency across the application.
 
+This repository contains both tasks for the course project:
 Task 1: OOP-based Application
 Personal Finance Tracker – A real-life expense and income management system.  
 Fully implements all OOP concepts taught in the course (Abstraction, Inheritance, Polymorphism, Encapsulation) using multiple modules.
