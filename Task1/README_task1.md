@@ -1,4 +1,5 @@
 # Task 1: Personal Finance Tracker
+**Introduction:**
 I built this tracker to help people stop losing track of their cash. It’s a simple tool where you can record every time you get paid or spend money. The goal was to use "Clean Coding" (OOP) 
 To fix or upgrade the system easily.
 
